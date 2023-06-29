@@ -4,7 +4,7 @@
 
 <h3 align="center">Software Engineer passionate in helping people succeed~!</h3>
 
-- 🔭 I’m relentlessly working with **Xplor to make education great!**
+- 🔭 I’m relentlessly working with **[Xplor](https://www.ourxplor.com/)** to make education great!
 - 📄 Get to know about my experiences [here](http://bit.ly/3T4tA7L).
 
 ###
