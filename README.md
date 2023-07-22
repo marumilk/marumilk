@@ -10,7 +10,7 @@
 ## Medium Activity
 
 <!-- MEDIUM:START -->
-
+- [Set and Forget — Make Team Health Checks Easy with Typeform, Notion and GRID.](https://abbydurbridge.medium.com/set-and-forget-make-team-health-checks-easy-with-typeform-notion-and-grid-d7569c39bef5?source=rss-da1ec26f2762------2)
 <!-- MEDIUM:END -->
 
 ###
