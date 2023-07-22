@@ -1,0 +1,18 @@
+name: Latest Medium posts workflow
+on:
+  schedule:
+    # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "MEDIUM"
+          commit_message: "Updated readme with the latest medium blog posts"
+          feed_list: "https://abbydurbridge.medium.com/feed"
