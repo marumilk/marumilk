@@ -2,10 +2,16 @@
 
 ###
 
-<h3 align="center">Software Engineer passionate in helping people succeed~!</h3>
+### Software Engineer passionate in helping people succeed~!
 
 - 🔭 I’m relentlessly working with **[Xplor](https://www.ourxplor.com/)** to make education great!
 - 📄 Get to know about my experiences [here](http://bit.ly/3T4tA7L).
+
+## Medium Activity
+
+<!-- MEDIUM:START -->
+
+<!-- MEDIUM:END -->
 
 ###
 
