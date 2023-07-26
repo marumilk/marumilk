@@ -1,6 +1,8 @@
 ![Header](https://raw.githubusercontent.com/marumilk/marumilk/main/images/marumilk-studios-banner-dark-neon.png "Header")
 
-<h1 align="center">Hi 👋 I'm Abby</h1>
+<div align="center">
+<h1>Hi & Welcome <img src="https://raw.githubusercontent.com/marumilk/marumilk/main/images/peach-cat-animated.gif" heigth="35" width="35" alt="boba-cat-gif" /> I'm Abby</h1>
+</div>
 
 ###
 
@@ -58,5 +60,3 @@
 ![Snake animation](https://github.com/marumilk/marumilk/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
-
-![boba-cat](https://raw.githubusercontent.com/marumilk/marumilk/main/images/peach-cat-animated.gif "boba-cat")
