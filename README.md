@@ -1,3 +1,5 @@
+![Header](https://raw.githubusercontent.com/marumilk/marumilk/main/images/marumilk-studios-banner-dark-neon.png "Header")
+
 <h1 align="center">Hi 👋 I'm Abby</h1>
 
 ###
@@ -10,6 +12,7 @@
 ## Medium Activity
 
 <!-- MEDIUM:START -->
+
 - [Set and Forget — Make Team Health Checks Easy with Typeform, Notion and GRID.](https://abbydurbridge.medium.com/set-and-forget-make-team-health-checks-easy-with-typeform-notion-and-grid-d7569c39bef5?source=rss-da1ec26f2762------2)
 <!-- MEDIUM:END -->
 
@@ -56,3 +59,5 @@
 ![Snake animation](https://github.com/marumilk/marumilk/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
+
+![boba-cat](https://raw.githubusercontent.com/marumilk/marumilk/main/images/peach-cat-animated.gif "boba-cat")
