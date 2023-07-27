@@ -10,6 +10,13 @@
 
 - 🔭 I’m relentlessly working with **[Xplor](https://www.ourxplor.com/)** to make education great!
 - 📄 Get to know about my experiences [here](http://bit.ly/3T4tA7L).
+  
+## What is Marumilk Studios?
+**Marumilk** is the union of `Maru` and `Milk`:
+
+`Maru` (丸) means 'circle' in Japanese. It can be depicted as「〇」in written Japanese carrying the connotation of 'correct', or is used to express something not known or to speak generically.
+
+Because of the roundness of「〇」reminding me of the boba/pearls in `milk`-tea, I've combined `Maru` and `Milk` to form the brand **Marumilk Studios** to be the umbrella brand for all my coding, gaming, artsy content! (づ ◕‿◕ )づ
 
 ## Medium Activity
 
@@ -49,14 +56,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-iota-hazel-48.vercel.app/api?username=marumilk&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-iota-hazel-48.vercel.app/api/top-langs?username=marumilk&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github.com/marumilk/marumilk/blob/main/github-metrics.svg" />
+<img src="https://github.com/marumilk/marumilk/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
-###
-
-<br clear="both">
-
-![Snake animation](https://github.com/marumilk/marumilk/blob/output/github-contribution-grid-snake-dark.svg)
-
-###
