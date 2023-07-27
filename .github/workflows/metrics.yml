@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           user: marumilk
           template: classic
