@@ -16,7 +16,7 @@
 
 `Maru` (丸) means 'circle' in Japanese. It can be depicted as「〇」in written Japanese carrying the connotation of 'correct', or is used to express something not known or to speak generically.
 
-Because of the roundness of「〇」reminding me of the boba/pearls in `milk`-tea, I've combined `Maru` and `Milk` to form the brand **Marumilk Studios** to be the umbrella brand for all my coding, gaming, artsy content! (づ ◕‿◕ )づ
+Because of the roundness of「〇」reminding me of the boba/pearls in `milk`-tea, I've combined `Maru` and `Milk` to form the brand **Marumilk Studios** to be the umbrella for all my coding, gaming, artsy content! (づ ◕‿◕ )づ
 
 ## Medium Activity
 
