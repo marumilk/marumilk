@@ -71,4 +71,4 @@ jobs:
           # plugin_habits_facts: yes
           # plugin_habits_charts: yes
           # plugin_habits_trim: no
-          plugin_stargazers: yes
+          # plugin_stargazers: yes
